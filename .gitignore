@@ -12,7 +12,7 @@ buildNumber.properties
 *-chenjk.yml
 .metadata*
 .recommenders*
-.metadata/
+.metadata/*
 
 
 # Compiled class file
