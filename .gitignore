@@ -10,7 +10,9 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 *-chenjk.yml
-
+.metadata*
+.recommenders*
+.metadata/
 
 
 # Compiled class file
